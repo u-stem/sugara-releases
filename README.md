@@ -1,6 +1,12 @@
-# sugara デスクトップアプリ
+# sugara Desktop
 
-旅行計画アプリ [sugara](https://sugara.vercel.app) の macOS / Windows 向けデスクトップアプリです。
+旅行計画アプリ [sugara](https://sugara.vercel.app) の macOS / Windows 向けデスクトップアプリ。
+
+[![Latest Release](https://img.shields.io/github/v/release/u-stem/sugara-releases?label=Latest&logo=github)](https://github.com/u-stem/sugara-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/u-stem/sugara-releases/total?logo=github)](https://github.com/u-stem/sugara-releases/releases)
+[![Tauri](https://img.shields.io/badge/Tauri-2-24C8D8?logo=tauri&logoColor=white)](https://v2.tauri.app)
+
+---
 
 ## ダウンロード
 
@@ -38,5 +44,5 @@
 
 ## リンク
 
-- Web 版: [sugara.vercel.app](https://sugara.vercel.app)
+- ソースコード: [u-stem/sugara](https://github.com/u-stem/sugara)
 - 過去のリリース: [Releases](https://github.com/u-stem/sugara-releases/releases)
